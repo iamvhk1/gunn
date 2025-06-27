@@ -16,3 +16,4 @@
 
 ## Contributors
 [Krutarth Patel](mailto:krutarthpatel929@gmail.com)
+[Harsha Karthikeya](mailto:vharshakarthikeya@gmail.com)
